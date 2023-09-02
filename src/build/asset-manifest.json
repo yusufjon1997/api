@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ad52cabc.css",
+    "main.js": "/static/js/main.0e886520.js",
+    "static/media/rule-1.png": "/static/media/rule-1.adb49c21e32c909e5fb5.png",
+    "static/media/refund.png": "/static/media/refund.7d45c90779532ab8e9e4.png",
+    "static/media/rul-2.png": "/static/media/rul-2.a35c083bbe66679b0891.png",
+    "static/media/rul-3.png": "/static/media/rul-3.68d4e7f083c49bb3cc2f.png",
+    "static/media/propeller.png": "/static/media/propeller.89d2b1eef259d68bdb1a.png",
+    "static/media/logo.svg": "/static/media/logo.d8efa5d9db994941d99068bbd38ece5b.svg",
+    "static/media/03.svg": "/static/media/03.2abbbc48735badb95210.svg",
+    "static/media/02.svg": "/static/media/02.f14fa2490d8b3d1a4e74.svg",
+    "static/media/provabyfire.svg": "/static/media/provabyfire.e748f9356942784bf0ba.svg",
+    "static/media/01.svg": "/static/media/01.ef13cbef38d6ef70ac1e.svg",
+    "static/media/help.svg": "/static/media/help.c84be79fe0a33dd91c9b.svg",
+    "static/media/i-logo.svg": "/static/media/i-logo.0d1de26459fc13e45eaa.svg",
+    "static/media/right.svg": "/static/media/right.09e25fcfaad6b43898c9.svg",
+    "static/media/dd.svg": "/static/media/dd.87c63b3f7664b220a055.svg",
+    "static/media/dd-hover.svg": "/static/media/dd-hover.edf78a282a413fa81646.svg",
+    "static/media/share.svg": "/static/media/share.55aa84acf9044a580aba.svg",
+    "index.html": "/index.html",
+    "static/media/burger.svg": "/static/media/burger.3e90de0fe0627a0a92ef.svg",
+    "static/media/history-i.svg": "/static/media/history-i.4b9fc063dbaf18800150.svg",
+    "static/media/user.svg": "/static/media/user.98b0977f10ff9dff7a5a.svg",
+    "static/media/history-i-hover.svg": "/static/media/history-i-hover.7e2638b56285dbf00584.svg",
+    "static/media/plus.svg": "/static/media/plus.d262ac7bed2ded6c6f09.svg",
+    "static/media/minus.svg": "/static/media/minus.2aa59914d663e769ab27.svg",
+    "static/media/remove.svg": "/static/media/remove.be5b1b1928fcc3ab00ac.svg",
+    "static/media/plus-1.svg": "/static/media/plus-1.96ee06357969dea11138.svg",
+    "main.ad52cabc.css.map": "/static/css/main.ad52cabc.css.map",
+    "main.0e886520.js.map": "/static/js/main.0e886520.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad52cabc.css",
+    "static/js/main.0e886520.js"
+  ]
+}
